@@ -1,3 +1,8 @@
+> [!note]
+> This repository contains theoretical notes and practical exercises from the Formal Languages and Computability course of the Computer Science degree at FAMAF – Universidad Nacional de Córdoba.
+>
+> All materials are in Spanish, as they were created for academic use and course submission.
+
 # Lenguajes Formales y Computabilidad
 
 ## Edición 2024
